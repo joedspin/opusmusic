@@ -1,0 +1,2 @@
+<cfparam name="form.cancelID" default=""><cfparam name="form.access">
+<cfif form.cancelID NEQ "" OR form.access NEQ "jtdmwh"><cfset Session.specialKey=Encrypt(form.cancelID,encryKey71xu)><cflocation url="orders.cfm"><cfelse><cflocation url="ordersCancelForm.cfm"></cfif>

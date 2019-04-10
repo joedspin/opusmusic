@@ -1,0 +1,2 @@
+Catalog_Number|Album_Detail_ID|Album_Format_ID|Label_Name|Album_Name|Artist_Name|Sell_Price|Buy_Price|In_Stock_Num|Style_ID|Date_Updated|Album_Status_ID|Company_ID|Release_Date
+

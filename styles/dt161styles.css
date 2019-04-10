@@ -1,0 +1,187 @@
+body,td,th {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #000000;
+}
+body {
+	background-color:#FFFFFF;
+	margin-left: 10px;
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	font-size: x-small;
+}
+a:link {
+	color:#003399;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color:#003399;
+}
+a:hover {
+	text-decoration: none;
+	color:#333333
+}
+a:active {
+	text-decoration: none;
+	color:#333333
+}
+
+ 
+form {
+	margin-top:0px;
+	margin-bottom: 0px;
+	margin-right: 0px;
+	margin-left: 0px;
+	padding:0px;
+	}
+h1,h2,h3,h4,h5,h6 {
+	font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+	font-size: small;
+	font-weight: normal;
+	color:#333333;
+}
+h2 {
+	font-size: x-small;
+	font-weight: normal;
+	color:#999999;
+}
+h3 {
+	font-size: x-small;
+	color: #FFFFFF;
+}
+h4 {
+	font-size: large;
+	color: #FFFFFF;
+	font-weight: bold;
+	margin-top: 12px;
+	margin-bottom: 12px;
+}
+input {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:10px;
+	color:#333333;
+	padding:0px;
+	border:none;
+	}
+select {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:x-small;
+	color:#333333;
+	padding:0px;
+	border:none;
+	}
+.button {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: x-small;
+	padding:2px;
+	background-color:#333333;
+	color:#66FF00;
+	}
+.dataLabel {
+	background-color:#000000;
+	color:#FFFFFF;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:x-small;
+	}
+.inputBox {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:x-small;
+	color:#333333;
+	padding:1px;
+	border:none;
+	border-color:#FFFFFF;
+	border-collapse:collapse;
+	margin:0px;
+	margin-left:1px;
+	margin-top:1px;
+	margin-bottom:1px;
+	}
+.catDisplay {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:x-small;
+	color:#333333;}
+.catDisplay {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:x-small;
+	color:#000000;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	line-height:80%;}
+.catDisplayOOS {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:x-small;
+	color:#666666;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	line-height:80%;}
+.detailsArtist {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: x-small;
+	line-height: 120%;
+	color:#333333
+	letter-spacing: normal;
+}
+.detailsTitle {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: x-small;
+	line-height: 120%;
+	color: #333333;
+	font-weight: bold;
+}
+.detailsLabel {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: x-small;
+	line-height: 120%;
+	color: #333333;
+}
+.detailsTracks {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: x-small;
+	line-height: 80%;
+	color:#333333;
+}
+.listNum {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: medium;
+	line-height: 80%;
+	color:#333333;
+	font-weight: bold;
+}
+a.detailsTracks:link {
+	color:#66FF00;
+	text-decoration: none;
+}
+a.detailsTracks:visited {
+	text-decoration: none;
+	color:#0099FF;
+}
+a.detailsTracks:hover {
+	text-decoration: none;
+	color:#FFCC00;
+}
+a.detailsTracks:active {
+	text-decoration: none;
+	color:#FFCC00;
+}
+form {margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px;}
+
+a.clickit:link {
+	color:#0099FF;
+	text-decoration: none;
+}
+a.clickit:visited {
+	text-decoration: none;
+	color:#0033CC;
+}
+a.clickit:hover {
+	text-decoration: none;
+	color:#CCCCCC;
+}
+a.clickit:active {
+	text-decoration: none;
+	color:#CCCCCC;
+}

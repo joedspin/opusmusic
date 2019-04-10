@@ -1,0 +1,36 @@
+﻿a
+{
+    color:Blue;
+}
+
+td
+{
+	text-align:left;
+}
+
+table.api
+{
+	width:600;
+}
+
+td.field
+{
+	text-align:right;
+	font-size:x-small;
+	font-family:Verdana;
+	font-weight:bold;
+}
+
+td.header
+{
+	text-align:center;
+	font-size:small;
+	font-family:Verdana;
+	font-weight:bold;
+}
+
+a.home
+{
+	font-weight:bold;
+	margin:2em 2em 2em 2em
+}
