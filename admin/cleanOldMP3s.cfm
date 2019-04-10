@@ -19,9 +19,9 @@
 <cfset trID=tracks.ID>
 <!---<cfset gotthisone=FileExists("c:\Inetpub\wwwroot\downtown304\media\oT#trID#.mp3")> [#gotthisone#]//--->
 	    <cfif FileExists("c:\Inetpub\wwwroot\downtown304\media\oT#trID#.mp3")>
-    <cffile action="copy" nameconflict="makeunique"
+    <!---<cffile action="copy" nameconflict="makeunique"
 		source="c:\Inetpub\wwwroot\downtown304\media\oT#trID#.mp3"
-		destination="c:\Inetpub\wwwroot\downtown304\mpold\#thisCatnum#_#tSort#.mp3">
+		destination="c:\Inetpub\wwwroot\downtown304\mpold\#thisCatnum#_#tSort#.mp3">//--->
      <cffile action="delete" file="c:\Inetpub\wwwroot\downtown304\media\oT#trID#.mp3">
     </cfif>
 </cfloop><br>
